@@ -1,4 +1,4 @@
-# AWS Infrastructure Deployment and Web Application Hosting
+# AWS Infrastructure Deployment and Web Application Hosting.
 
 ## Project Overview
 This project demonstrates the deployment of a scalable, secure, and highly available web application using AWS services. The infrastructure is managed using Infrastructure as Code (IaC) principles.
