@@ -1,8 +1,7 @@
 # AWS Infrastructure Deployment and Web Application Hosting.
 
 ## Project Overview
-This project demonstrates the deployment of a scalable, secure, and highly available web application using AWS services. The infrastructure is managed using Infrastructure as Code (IaC) principles.
-
+This project demonstrates the deployment of a scalable, secure, and highly available web application using AWS services.
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -12,10 +11,6 @@ This project demonstrates the deployment of a scalable, secure, and highly avail
 - [Contact](#contact)
 
 ## Features
-1. **Network Infrastructure Setup with IaC:**
-   - AWS CloudFormation or Terraform for defining network infrastructure.
-   - Segmentation with Subnets, Security Groups, and Network ACLs.
-   - NAT Gateway for private instance internet access.
 
 2. **Web Application Hosting:**
    - Deploy using Amazon EC2, ECS, or EKS.
