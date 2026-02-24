@@ -1,4 +1,4 @@
-# AWS Infrastructure Automation with CloudFormation
+# AWS Highly Available Web Application with Infrastructure as Code
 
 ## 📌 Overview
 This project demonstrates how to deploy a highly available AWS infrastructure using Infrastructure as Code (IaC) with AWS CloudFormation (YAML).
